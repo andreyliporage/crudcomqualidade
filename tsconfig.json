@@ -28,6 +28,9 @@
       ],
       "@server/*": [
         "src/server/*"
+      ],
+      "@ui/*": [
+        "src/ui/*"
       ]
     }
   },
